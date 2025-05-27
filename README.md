@@ -40,3 +40,12 @@ struct ObraDeArte: Identifiable {
     let imagemNome: String
     let descricao: String
 }
+```
+
+## 🤓 Integrantes do grupo:
+
+Juan Servelo, João Tancon, Thais Amaral, Luana Akemi e Ray Govaski
+
+## 📸 Link para apresentação do trabalho:
+
+https://youtu.be/sVHicN4efYQ
