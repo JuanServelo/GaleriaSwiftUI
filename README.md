@@ -2,6 +2,10 @@
 
 Uma galeria de arte interativa desenvolvida em **SwiftUI**, com foco na valorização de artistas **Curitibanos**. O app apresenta uma interface moderna e responsiva, com recursos de busca e navegação detalhada entre obras.
 
+📚 **Trabalho realizado na matéria de _Mobile Development: IOS_**, com o objetivo de reforçar nossos conhecimentos sobre **Programação para IOS** e o uso de **SwiftUI**.
+
+---
+
 ## 📱 Objetivo
 
 Desenvolver um aplicativo iOS com **SwiftUI** que apresente uma galeria visual de obras de arte utilizando **LazyVGrid**, promovendo a produção artística local de **Curitiba**.
