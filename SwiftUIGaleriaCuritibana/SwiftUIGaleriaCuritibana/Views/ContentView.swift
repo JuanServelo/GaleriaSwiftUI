@@ -4,7 +4,8 @@
 //
 //  Created by user276508 on 20/05/25.
 //
-
+//  Tela principal que exibe a galeria de obras com funcionalidade de busca.
+//
 import SwiftUI
 
 // MARK: - ContentView

@@ -9,10 +9,12 @@ import SwiftUI
 
 /// View responsável por exibir os detalhes de uma obra de arte selecionada.
 struct DetalhesObraView: View {
-    // Objeto do tipo ObraDeArte a ser exibido
+    // MARK: - Propriedade da Obra
+    // A obra recebida da ContentView por meio de navegação.
     let obra: ObraDeArte
-
+    
     var body: some View {
+        // ScrollView permite rolagem caso o conteúdo ultrapasse a altura da tela.
         ScrollView {
             VStack(alignment: .leading, spacing: 16) {
                 
